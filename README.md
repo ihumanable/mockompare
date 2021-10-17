@@ -117,3 +117,7 @@ How mocks _should_ behave is a subjective question, there's no objective definit
 Patch adopts a simple but powerful definition that is consistent and easy to reason about, patched functions always act like patched functions.
 
 The other libraries adopt a different definition of mock, one that is more in line with the underlying mechanisms of BEAM.
+
+## Reporting Issues
+
+This comparison was assembled by following the documentation for each project to the best of my ability, but that's no guarantee that each test is implemented correctly.  If an issue in the tests is found, an issue or pull request is welcome.
