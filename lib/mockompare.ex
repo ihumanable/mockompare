@@ -1,0 +1,3 @@
+defmodule Mockompare do
+
+end
