@@ -24,7 +24,8 @@ defmodule Mockompare.MixProject do
       {:meck, "~> 0.9.2"},
       {:mock, "~> 0.3.7"},
       {:mockery, "~> 2.3.0"},
-      {:mox, "~> 1.0", only: :test}
+      {:mox, "~> 1.0", only: :test},
+      {:patch, "~> 0.6.0", only: :test}
     ]
   end
 end
